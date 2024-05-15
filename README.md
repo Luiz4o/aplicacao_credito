@@ -1,0 +1,1 @@
+Se trata de uma aplicação ao qual simula uma conta bancaria com saldo e um limite, e em seguida fazemos simulações de compras usando deste saldo e limite salvando tais produtos para um histórico de compras e controle do cartão.
